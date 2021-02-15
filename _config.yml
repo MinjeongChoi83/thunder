@@ -60,3 +60,4 @@ prose:
     - /_includes
     
 gems: [jekyll-seo-tag]
+theme: jekyll-theme-cayman
